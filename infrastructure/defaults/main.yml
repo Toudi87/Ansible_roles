@@ -1,0 +1,5 @@
+defaults/main.yml
+
+deployment_path: "~/Infrastructure"
+git_repository: "https://github.com/Panda-Academy-Core-2-0/Infrastructure"
+git_branch: "main"
